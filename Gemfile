@@ -5,6 +5,10 @@ gem 'rails', '3.1.3'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
+# Development DB
+# gem 'sqlite3'
+
+# Deployment (Heroku) DB
 gem 'sqlite3'
 
 
